@@ -30,11 +30,6 @@ h2 {
   min-height: 100vh;
 }
 
-/* .container > header > nav {
-  width: 100%;
-  background-color: #6439ff;
-} */
-
 .container > header > .banner {
   height: 80vh;
   background-image: url("https://idea.or.id/storage/articles/641db54d76900.jpg");
@@ -42,25 +37,6 @@ h2 {
   background-position: center;
   background-attachment: fixed;
 }
-/* 
-.container > header > nav > ul {
-  list-style-type: none;
-  display: flex;
-  justify-content: center;
-  padding: 20px 0;
-}
-
-.container > header > nav > ul > li > a {
-  color: white;
-  font-size: 16px;
-  padding: 20px 15px;
-  border-radius: 2px;
-  text-transform: capitalize;
-}
-
-.container > header > nav ul li a:hover {
-  background-color: #4f75ff;
-} */
 
 .container > main > section {
   display: flex;
